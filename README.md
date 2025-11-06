@@ -147,6 +147,4 @@ A success message appears in the terminal:<br>
 <br>
 
 
-## Contact
-If you have any questions, please feel free to reach out via email: christian-schwanse (at) gmx.net
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
